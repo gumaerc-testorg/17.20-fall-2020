@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-20-introduction-to-the-american-political-process-fall-2020/58ae21630fb51acf5d68b67aea69b480_MIT17_20F20_FinalExam_Example2.pdf
+file: /media/courses/17-20-introduction-to-the-american-political-process-fall-2020/58ae21630fb51acf5d68b67aea69b480_MIT17_20F20_FinalExam_Example2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Final Exam
+parent_type: CourseSection
 resourcetype: Document
 title: '17.20F20 Introduction to the American Political Process Final Exam Example:
   Biden''s Climate Change Policy'

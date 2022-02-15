@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Recitation Slides
 uid: 3a669878-068d-d164-dd6a-4be435e347f2
 ---

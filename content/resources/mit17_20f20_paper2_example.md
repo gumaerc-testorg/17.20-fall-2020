@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-20-introduction-to-the-american-political-process-fall-2020/7d9a74c59a2de9bd90bb6b7a5183e3e1_MIT17_20F20_Paper2_Example.pdf
+file: /media/courses/17-20-introduction-to-the-american-political-process-fall-2020/7d9a74c59a2de9bd90bb6b7a5183e3e1_MIT17_20F20_Paper2_Example.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '17.20F20 Introduction to the American Political Process Assignments: Paper
   2 Student Example '
