@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: 9ffe5083-feba-ed72-4bec-0c5c85da94bf
 resourcetype: Document
 title: '17.20F20 Introduction to the American Political Process Final Exam Example:
   Consequences of Universal Suffrage '

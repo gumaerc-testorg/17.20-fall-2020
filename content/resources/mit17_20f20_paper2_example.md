@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 146ed505-5b84-2884-3642-9903d597ffce
 resourcetype: Document
 title: '17.20F20 Introduction to the American Political Process Assignments: Paper
   2 Student Example '
