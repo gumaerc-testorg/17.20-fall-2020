@@ -8,24 +8,24 @@ uid: 3a669878-068d-d164-dd6a-4be435e347f2
 
 The recitation slides were done by the teaching assistant Zeyu Chris Peng and are used with permission.
 
-[Recitation 1: Sources of American Discontent; Representation and Responsiveness (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec1)
+{{% resource_link 511dfe2a-4151-8622-582b-8d47645b59e8 "Recitation 1: Sources of American Discontent; Representation and Responsiveness (PDF)" %}}
 
-[Recitation 2: Collective Action and Interest Groups; Electoral Geography and Voting Rights (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec2)
+{{% resource_link c7cdcd57-2ef0-9b2e-7838-957a96191ac5 "Recitation 2: Collective Action and Interest Groups; Electoral Geography and Voting Rights (PDF)" %}}
 
-[Recitation 3: Rational Choice Theory; The Constitution (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec3)
+{{% resource_link 137bce3e-8d9a-1dc8-e4ce-98ee590dab2b "Recitation 3: Rational Choice Theory; The Constitution (PDF)" %}}
 
-[Recitation 4: Congresspeople and Congress Lawmaking (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec4)
+{{% resource_link 9058d66f-95ed-7fa2-658d-4ffbf9974afa "Recitation 4: Congresspeople and Congress Lawmaking (PDF)" %}}
 
-[Recitation 5: The Presidency (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec5)
+{{% resource_link 31ea9dd1-586b-6373-a330-412caf7a3842 "Recitation 5: The Presidency (PDF)" %}}
 
-[Recitation 6: The Court and Political Parties (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec6)
+{{% resource_link 78c5ea4a-156f-78a3-1813-02f304d7797f "Recitation 6: The Court and Political Parties (PDF)" %}}
 
-[Recitation 7: Rational Voters (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec7)
+{{% resource_link c28683c8-76a8-e628-2439-5d88c6590582 "Recitation 7: Rational Voters (PDF)" %}}
 
-[Recitation 8: Partisanship and American Political Divide (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec8)
+{{% resource_link 4d5f76f4-f3b3-ba3f-9ec0-efec4cdc77f9 "Recitation 8: Partisanship and American Political Divide (PDF)" %}}
 
-[Recitation 9: Research Paper Workshop (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec9)
+{{% resource_link b26fcc56-f94b-1ebc-c741-04a6dbbb1407 "Recitation 9: Research Paper Workshop (PDF)" %}}
 
-[Recitation 10: Money, Gender, and Politics (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec10)
+{{% resource_link 57f5488a-2784-171b-ff91-fc64f6224cd1 "Recitation 10: Money, Gender, and Politics (PDF)" %}}
 
-[Recitation 11: Incarceration and Political Participation (PDF)]({{< baseurl >}}/resources/mit17_20f20_rec11)
+{{% resource_link 4f7ba498-c1ff-b3c6-eef2-61d51a611f76 "Recitation 11: Incarceration and Political Participation (PDF)" %}}
