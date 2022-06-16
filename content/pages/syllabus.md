@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course description, learning goals, expectations,
+  grading policy, and required reading info.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

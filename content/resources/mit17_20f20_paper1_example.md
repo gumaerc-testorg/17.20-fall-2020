@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-20-introduction-to-the-american-political-process-fall-2020/7170e6668fd3282cb6b71510d40ee958_MIT17_20F20_Paper1_Example.pdf
+file: /courses/17-20-introduction-to-the-american-political-process-fall-2020/7170e6668fd3282cb6b71510d40ee958_MIT17_20F20_Paper1_Example.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

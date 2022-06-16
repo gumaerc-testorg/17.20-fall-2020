@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains slides from the recitation sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Recitation Slides
