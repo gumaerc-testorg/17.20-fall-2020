@@ -4,6 +4,7 @@ description: ''
 file: /courses/17-20-introduction-to-the-american-political-process-fall-2020/bd27cc880bf591131a134fd2c69498db_MIT17_20F20_FinalExam_Example3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
