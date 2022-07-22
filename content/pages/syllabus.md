@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course description, learning goals, expectations,
+  grading policy, and required reading info.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7070e3a0-88fc-4787-5f3b-21fff093eb48
 ---
@@ -155,7 +159,7 @@ _Recitation attendance is mandatory, and students are expected to be active and 
 
 {{< tableclose >}}
 
-For details on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For details on the activities above, see the {{% resource_link 146ed505-5b84-2884-3642-9903d597ffce "Assignments" %}} section.
 
 Required Reading
 ----------------
@@ -174,4 +178,4 @@ Additionally, an important part of this class is learning to be an informed cons
 6.  [CityLab](https://www.bloomberg.com/citylab)
 7.  [The Atlantic](https://www.theatlantic.com/)
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link 999ac295-6cd3-f81f-6d29-9fa5593658e0 "Readings" %}} section.

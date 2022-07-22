@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the final exam for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Final Exam
 uid: 9ffe5083-feba-ed72-4bec-0c5c85da94bf
 ---
@@ -23,10 +26,10 @@ I expect you to take about three to four hours to complete this exam, but obviou
 
 ### Student Examples
 
-[“Consequences of Universal Suffrage.” (PDF)]({{< baseurl >}}/resources/mit17_20f20_finalexam_example1) (Courtesy of MIT student.)
+{{% resource_link 77d052ed-8a94-09f8-b775-c87ba4b7c0b1 "“Consequences of Universal Suffrage.” (PDF)" %}} (Courtesy of MIT student.)
 
-[“Biden's Climate Change Policy.” (PDF)]({{< baseurl >}}/resources/mit17_20f20_finalexam_example2) (Courtesy of Ronak Roy.)
+{{% resource_link 58ae2163-0fb5-1acf-5d68-b67aea69b480 "“Biden's Climate Change Policy.” (PDF)" %}} (Courtesy of Ronak Roy.)
 
-[“Federalism.” (PDF)]({{< baseurl >}}/resources/mit17_20f20_finalexam_example3) (Courtesy of Daniel Stein.)
+{{% resource_link bd27cc88-0bf5-9113-1a13-4fd2c69498db "“Federalism.” (PDF)" %}} (Courtesy of Daniel Stein.)
 
 Note: All examples appear courtesy of MIT students and may be anonymous by request.
