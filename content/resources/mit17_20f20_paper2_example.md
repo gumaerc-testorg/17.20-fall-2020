@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-20-introduction-to-the-american-political-process-fall-2020/7d9a74c59a2de9bd90bb6b7a5183e3e1_MIT17_20F20_Paper2_Example.pdf
+file: /ol-ocw-studio-app/courses/17-20-introduction-to-the-american-political-process-fall-2020/7d9a74c59a2de9bd90bb6b7a5183e3e1_MIT17_20F20_Paper2_Example.pdf
 file_size: 107749
 file_type: application/pdf
 learning_resource_types:
